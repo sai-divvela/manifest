@@ -5,7 +5,7 @@
          fetch="https://github.com/sai-divvela"
          review="" />
 
-<default revision="master"
+<default revision="tizen"
            remote="tizen"
            sync-j="4" />
 
