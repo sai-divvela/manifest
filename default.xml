@@ -9,7 +9,7 @@
            remote="tizen"
            sync-j="4" />
 
-<project path="platform/upstream/icecream" repo="platform.upstream.icecream"/>
-<project path="tools/image-configurations" repo="tools.image-configurations"/>
-<project path="platform/upstream/image-configurations" repo="platform.upstream.image-configurations"/>
+<project path="platform/upstream/icecream" name="platform.upstream.icecream"/>
+<project path="tools/image-configurations" name="tools.image-configurations"/>
+<project path="platform/upstream/image-configurations" name="platform.upstream.image-configurations"/>
 </manifest>
