@@ -10,6 +10,5 @@
            sync-j="4" />
 
 <project path="platform/upstream/icecream" name="platform.upstream.icecream"/>
-<project path="tools/image-configurations" name="tools.image-configurations"/>
 <project path="platform/upstream/image-configurations" name="platform.upstream.image-configurations"/>
 </manifest>
